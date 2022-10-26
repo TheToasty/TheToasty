@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Toasty! 
-- 👀 I’m interested in Discord Servers, Minecraft Gameplay and I quite enjoy music. 
-- 🌱 I’m currently learning nothing at all because I've got just about no time. 
+- 👀 I’m interested in Discord Servers and I enjoy music. 
+- 🌱 I’m currently learning Java. 
 - 📫 How to reach me:
 	1. Discord (Toasty#9500) 
 	2. Discord. 
