@@ -1,4 +1,4 @@
 Toasty.
 Discord Servers and music. 
 Java. 
-Discord: Toasty#9500.
+Discord: toasty9500
